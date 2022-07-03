@@ -1,0 +1,106 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="beIN PREMIUM 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_PREMIUM_Digital_Mono.png",beIN PREMIUM 1 HD
+https://dl.dropboxusercontent.com/s/y8g3nx0owqlpc5w/.m3u8
+#EXTINF:-1 tvg-name="beIN PREMIUM 2 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_PREMIUM_Digital_Mono.png",beIN PREMIUM 2 HD
+https://dl.dropboxusercontent.com/s/owjl5qk2pjhfxf4/.m3u8
+#EXTINF:-1 tvg-name="beIN PREMIUM 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_PREMIUM_Digital_Mono.png",beIN PREMIUM 3 HD
+https://dl.dropboxusercontent.com/s/qqitpaxi7q8jt4c/.m3u8
+#EXTINF:-1 tvg-name="beIN SPORT 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png",beIN SPORT 1 HD
+https://dl.dropboxusercontent.com/s/t6465xx7k160e2w/.m3u8
+#EXTINF:-1 tvg-name="beIN SPORT 2 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS2_DIGITAL_Mono.png",beIN SPORT 2 HD
+https://dl.dropboxusercontent.com/s/pksonyoqzb9o3mu/.m3u8
+#EXTINF:-1 tvg-name="beIN SPORT 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS3_DIGITAL_Mono.png",beIN SPORT 3 HD
+https://dl.dropboxusercontent.com/s/zualuomxznpf26s/.m3u8
+#EXTINF:-1 tvg-name="beIN SPORT 4 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS4_DIGITAL_Mono.png",beIN SPORT 4 HD
+https://dl.dropboxusercontent.com/s/nyx35bwo11lrbm0/.m3u8
+#EXTINF:-1 tvg-name="beIN SPORT 5 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",beIN SPORT 5 HD
+https://dl.dropboxusercontent.com/s/35ktguvwb5a55yi/.m3u8
+#EXTINF:-1 tvg-name="beIN SPORT 6 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS6_DIGITAL_Mono.png",beIN SPORT 6 HD
+https://dl.dropboxusercontent.com/s/4odmumlmo7rzids/.m3u8
+#EXTINF:-1 tvg-name="beIN SPORT 7 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS7_DIGITAL_Mono.png",beIN SPORT 7 HD
+https://dl.dropboxusercontent.com/s/8rjzgssgvdr0gqs/.m3u8
+
+#EXTINF:-1 tvg-name="Unifi Sports 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="ASTRO SPORT",Unifi Sports 1
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.m3u8
+#EXTINF:-1 tvg-name="Unifi Sports 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://i.postimg.cc/VvfnNP7v/Unifi-TV-Logo.png" group-title="ASTRO SPORT",Unifi Sports 2
+https://unifi-live05.secureswiftcontent.com/UnifiHD/live12.m3u8
+
+#EXTINF:-1 tvg-name="SSC SPORT 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_1HD_AW-01.png",SSC SPORT 1 HD
+http://217.74.16.155:8082/local//ar-s/SSC1/index.m3u8
+#EXTINF:-1 tvg-name="SSC SPORT 2 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_2HD_AW-01.png",SSC SPORT 2 HD
+http://217.74.16.155:8082/local//ar-s/SSC2/index.m3u8
+#EXTINF:-1 tvg-name="SSC SPORT 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_3HD_AW-01.png",SSC SPORT 3 HD
+http://217.74.16.155:8082/local//ar-s/SSC3/index.m3u8
+#EXTINF:-1 tvg-name="SSC SPORT 4 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_4HD_AW-01.png",SSC SPORT 4 HD
+http://217.74.16.155:8082/local//ar-s/SSC4/index.m3u8
+#EXTINF:-1 tvg-name="SSC SPORT 5 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_5HD_AW-01.png",SSC SPORT 5 HD
+http://217.74.16.155:8082/local//ar-s/SSC5/index.m3u8
+#EXTINF:-1 tvg-name="SSC SPORT 6 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_6HD_AW-01.png",SSC SPORT 6 HD
+http://217.74.16.155:8082/local//ar-s/SSC6/index.m3u8
+#EXTINF:-1 tvg-name="SSC SPORT 7 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://gobx.com/wp-content/uploads/2021/09/SSC__Channel_Bugs_7HD_AW-01.png",SSC SPORT 7 HD
+http://217.74.16.155:8082/local//ar-s/SSC7/index.m3u8
+
+#EXTINF:-1 tvg-name="ABU DHABI SPORT 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://i.postimg.cc/4NNF0d6m/ABU-DHABI-SPORTS-1.png",ABU DHABI SPORT 1 HD
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-name="ABU DHABI SPORT 2 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://i.postimg.cc/Bnj7qVw3/ABU-DHABI-SPORTS-2.png",ABU DHABI SPORT 2 HD
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-name="ABU DHABI SPORT 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://i.postimg.cc/4xjLnQr9/ABU-DHABI-SPORTS-3.png",ABU DHABI SPORT 3 HD
+http://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-name="ABU DHABI SPORT 4 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://i.postimg.cc/3JSbQT19/ABU-DHABI-SPORTS-4.png",ABU DHABI SPORT 4 HD
+http://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-name="Dubai SPORT 1 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="http://bit.ly/2vEKtMM",Dubai SPORT 1 HD
+https://dmitnthvll.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-name="Dubai SPORT 2 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="http://bit.ly/2w63Hub",Dubai SPORT 2 HD
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-name="Dubai SPORT 3 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="http://bit.ly/2w63Hub",Dubai SPORT 3 HD
+https://dmitwlvvll.cdn.mgmlcdn.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 tvg-name="Dubai SPORT 4 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/71/5bcc4ab3b1.png",Dubai Racing 1 HD
+https://dmisvthvll.cdn.mgmlcdn.com/events/smil:events.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-name="Dubai SPORT 5 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/71/icons/live/duabi-racing-2-live.png",Dubai Racing 2 HD
+https://dmithrvll.cdn.mgmlcdn.com/dubairacing/smil:dubairacing.smil/chunklist_b1500000.m3u8
+#EXTINF:-1 tvg-name="Dubai SPORT 6 HD" tvg-id="beINSPORT" group-title="SPORT" tvg-logo="https://statres.cdn.mgmlcdn.com/analytics/uploads/71/5bfea86c98.png",Dubai Racing 3 HD
+https://dmithrvll.cdn.mgmlcdn.com/dubaimubasher/smil:dubaimubasher.smil/chunklist_b1600000.m3u8
+
+#EXTINF:-1 tvg-name="ENTV" tvg-id="ALGERIA" group-title="ENTV" tvg-logo="http://hta.backoffice.easybroadcast.fr/channel/9_picture.png",ENTV
+https://cdn02.hta.dz/abr_htatv/PROGRAMME_NATIONAL/playlist.m3u8
+#EXTINF:-1 tvg-name="Canal Algerie" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/4_picture.png",Canal Algerie
+https://cdn02.hta.dz/abr_htatv/CANAL_ALGERIE/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie 3" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/1_picture.png",Algerie 3
+https://cdn02.hta.dz/abr_htatv/A3_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie 4" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/124_picture.png",Algerie 4
+https://cdn02.hta.dz/abr_htatv/TV_4/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie 5" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/73_picture.png",Algerie 5
+https://cdn02.hta.dz/abr_htatv/TV_5/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie 6" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/137_picture.png",Algerie 6
+https://cdn02.hta.dz/abr_htatv/TV_6_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie 7" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/138_picture.png",Algerie 7
+https://cdn02.hta.dz/abr_htatv/TV7_ELMAARIFA/playlist.m3u8
+#EXTINF:-1 tvg-name="Algerie 8" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/141_picture.png",Algerie 8
+https://cdn02.hta.dz/abr_htatv/TV8_EDHAKIRA/playlist.m3u8
+#EXTINF:-1 tvg-name="EL BILAD TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/3_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/EL_BILAD/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/6_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/Echorouk_TV_HD/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/18_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/ECHOROUK_NEWS/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/8_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/ENNAHAR_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/7_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/EL_DJAZAIRIA_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/123_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/Bahia_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/129_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/EL_HAYAT_TV_ALGERIE/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/140_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/Lina_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/10_picture.png",EL BILAD TV
+https://tv.hiho5.com:8443/live/hamzaUs02/A62DKgdgfe65/100.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/132_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/El_Fhama_TV/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/139_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/El_Djazair_N1/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/130_picture.png",EL BILAD TV
+https://cdn02.hta.dz/abr_htatv/EL_FADJR_TV_DZ/playlist.m3u8
+#EXTINF:-1 tvg-name="ECHOROUK TV" tvg-id="ALGERIA" group-title="DZ" tvg-logo="https://hta.backoffice.easybroadcast.fr/channel/15_picture.png",EL BILAD TV
+http://56.bihourmkras.xyz.global.prod.fastly.net/live/022/index.m3u8
