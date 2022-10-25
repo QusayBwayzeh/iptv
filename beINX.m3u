@@ -11,5 +11,9 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2766.m3u8
 http://www.tvxclnt.com:8080/live/tretvx2022/QP3J8nmeTvIZp82J/2766.m3u
 #EXTINF:-1 tvg-id="BEINSPORT_2" tvg-name="BEINSPORT" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="General",BEIN SPORT NEWS vip
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2766.m3u
-#EXTINF:-1 tvg-id="BEINSPORT_3" tvg-name="BEINSPORT" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="General",BEIN SPORT NEWS vip
-http://www.tvxclnt.com:8080/live/tretvx2022/QP3J8nmeTvIZp82J/2766
+#EXTINF:-1 tvg-id="BEINSPORT_Custom" tvg-name="BEINSPORT" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="General",BEIN SPORT NEWS vip
+https://raw.githubusercontent.com/QusayBwayzeh/iptv/live/2766.m3u8
+
+
+
+
