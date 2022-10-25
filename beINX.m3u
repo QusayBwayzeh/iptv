@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BEINSPORT" tvg-name="BEINSPORT" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/CwwRn4b.png" group-title="General",BEIN SPORT NEWS vip
+#EXTINF:-1 tvg-id="BEINSPORT_M3U8" tvg-name="BEINSPORT" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="General",BEIN SPORT NEWS vip
 http://www.tvxclnt.com:8080/live/tretvx2022/QP3J8nmeTvIZp82J/2766.m3u8
+#EXTINF:-1 tvg-id="BEINSPORT_TS" tvg-name="BEINSPORT" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="General",BEIN SPORT NEWS vip
+http://www.tvxclnt.com:8080/live/tretvx2022/QP3J8nmeTvIZp82J/2766.ts
+#EXTINF:-1 tvg-id="BEINSPORT_Direct" tvg-name="BEINSPORT" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="General",BEIN SPORT NEWS vip
+http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2766
